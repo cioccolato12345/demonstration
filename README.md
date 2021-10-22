@@ -1,15 +1,16 @@
 # demonstration
 
-css、javascript、gitの勉強で、色々見みて 参考にしながら勉強中📝
+css、javascript、gitの勉強で、色々参考にしながら勉強中📝💦
 
 
 URL → https://cioccolato12345.github.io/demonstration/
 
-(↑URLは編集したときの結果確認のため設置)
+(↑URLはgithubで編集したとき、結果確認のため設置)
 
 
 今後やること・・・
-🔰 一時停止と、ゲーム再開を追加予定。。
+
+🔰 一時停止 、ゲーム再開 を 追加予定。。
 
 
 
