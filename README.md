@@ -20,3 +20,7 @@ PC の 上下左右 矢印 で操作可
 
 ←   　左へ進む  left
 
+
+
+![image](https://user-images.githubusercontent.com/92945582/138495326-642ee8ec-2ffe-42c8-a6e1-34a1f62d0dc9.png)
+
