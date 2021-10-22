@@ -9,11 +9,11 @@
 --🐣--🐥--操作方法--🐥--🐣--
 PC の 上下左右 矢印 で操作可
 
-↑　  回転　roll/spin
+↑　 　 回転　roll/spin
 
-↓   下へ落ちる down
+↓   　下へ落ちる down
 
-→   右へ進む right
+→   　右へ進む right
 
-←   左へ進む  left
+←   　左へ進む  left
 
