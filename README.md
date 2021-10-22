@@ -10,7 +10,7 @@ URL → https://cioccolato12345.github.io/demonstration/
 --🐣--🐣--🐥--操作方法--🐥--🐣--🐣--
 
 
-PC の 上下左右 矢印 で操作可
+PC の 上下左右 矢印ｷｰ で操作可
 
 ↑　 　 回転　roll/spin
 
