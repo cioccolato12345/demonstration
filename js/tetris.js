@@ -38,7 +38,7 @@ class Tetris {
         }
         // ||ﾎﾞﾀﾝ
         document.getElementById("tetris-pause-button").addEventListener('click', () => {
-            window.alert(' 一時停止中！OKｸﾘｯｸ/ﾀｯﾌﾟ で 再ｽﾀｰﾄします!!');
+            window.alert(' 一時停止中！OKｸﾘｯｸ/ 閉じるﾀｯﾌﾟ で 再ｽﾀｰﾄします!!');
         });
         /*
         // ▶ﾎﾞﾀﾝ ﾘﾛｰﾄﾞﾎﾞﾀﾝ
