@@ -36,6 +36,16 @@ class Tetris {
         document.getElementById("tetris-fall-button").onmousedown = (e) => {
             this.fall();
         }
+        // ||ﾎﾞﾀﾝ
+        document.getElementById("tetris-pause-button").addEventListener('click', () => {
+            window.alert('stop! click to start♪　一時停止中！OKｸﾘｯｸ/ﾀｯﾌﾟ で 再ｽﾀｰﾄします');
+        });
+        /*
+        // ▶ﾎﾞﾀﾝ ﾘﾛｰﾄﾞﾎﾞﾀﾝ
+        document.getElementById("tetris-start-button").onmousedown = (e) => {
+            fallProcess();
+        }
+        */
     }
 
     createBlocks() {
